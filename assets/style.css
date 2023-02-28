@@ -1,0 +1,60 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+h1.title,
+h2.title,
+h3.title,
+h4.title,
+h5.title,
+h6.title {
+    color: rgb(10, 33, 93) !important;
+}
+
+.btn {
+    padding: 0.6rem 1.5rem !important;
+}
+
+.btn-primary {
+    background-color: #80602a !important;
+    border: #80602a !important;
+}
+
+.btn-primary:hover {
+    background-color: #463517 !important;
+    border: #463517 !important;
+}
+
+.btn-modal {
+    background-color: #102e7b !important;
+    border: #102e7b !important;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.btn-modal:hover {
+    background-color: #061743 !important;
+    border: #ffffff !important;
+    color: #ffffff;
+}
+
+.nav-link {
+    font-weight: 500;
+    color: rgb(10, 33, 93) !important;
+}
+
+.nav-link:hover {
+    color: rgb(10, 33, 93, .7) !important;
+}
+
+#manufacturers {
+    background-image: url(./images/circuit.jpg);
+}
+
+#footer {
+    background-color: rgb(10, 33, 93);
+}
